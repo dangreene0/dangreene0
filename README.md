@@ -19,7 +19,7 @@
 [![GitLab CD/CI](https://img.shields.io/static/v1?label=&message=GitLab%20CD/CI&color=313131&logo=gitlab&logoColor=FFFFFF)](https://gitflic.ru/)
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=blue&logo=docker&logoColor=FFFFFF)](https://catern.com/docker.html)
 [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=teal&logo=flask&logoColor=FFFFFF)](https://expressjs.com/)
-[![Staging Environments](https://img.shields.io/static/v1?label=&message=Staging%20Environments&color=green&logo=git&logoColor=FFFFFF)](https://developer.valvesoftware.com/wiki/Source_SDK_2013#Source_SDK_2013_on_macOS_.28OS_X.29)
+[![Staging Environments](https://img.shields.io/static/v1?label=&message=Staging%20Environments&color=green&logo=git&logoColor=FFFFFF)](https://developer.valvesoftware.com/wiki/Setting_up_Source_SDK_Base_2013_Singleplayer#macOS_(OS_X))
 
 ### Game Development
 [![Source](https://img.shields.io/static/v1?label=&message=Source&color=black&logo=steam&logoColor=FFFFFF)](https://www.thegamecreators.com/product/fps-creator-classic-open-source)
@@ -32,12 +32,12 @@
 ---
 ### Community Contributions:
 
-[![PF2 Discord](https://img.shields.io/discord/509270384659398666?label=PF2%20Discord)](https://discord.gg/ra68rM5nuE)
+[![PF2 Discord](https://img.shields.io/discord/509270384659398666?label=PF2%20Discord)](https://prefortress.com/discord)
 [![KritzKast Discord](https://img.shields.io/discord/93472782184087552?label=KritzKast%20Discord)](https://discord.gg/kritzkast/)
 [![unbox.tf Discord](https://img.shields.io/discord/832070068371980338?label=unbox.tf%20Discord)](https://discord.gg/cdrWJHsFkq)
 
 #### Projects:
 
-- [Pre-Fortress 2](https://prefortress.com) [Infrastructure Lead and Organization Manager](https://github.com/Pre-Fortress-2) 
+- [Pre-Fortress 2 Technical Lead](https://prefortress.com) [and Organization Manager](https://github.com/Pre-Fortress-2) 
 - [KritzKast Bot Developer](https://github.com/KritzKastTF)
 ---
