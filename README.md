@@ -5,7 +5,7 @@
 
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=9B18B7&logo=python&logoColor=FFFFFF)](https://github.com/Mecaneer23/Bin-snake)
 [![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=cplusplus&logoColor=FFFFFF)](https://winworldpc.com/product/visual-j/60)
-[![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=rust&logoColor=FFFFFF)](https://winworldpc.com/product/visual-j/60)
+[![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=rust&logoColor=FFFFFF)](https://github.com/tsoding/crust)
 [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00599C&logo=go&logoColor=FFFFFF)](https://www.youtube.com/watch?v=ayIiHNxhiKk)
 [![C#](https://img.shields.io/static/v1?label=&message=C%23&color=267dc9&logo=.net&logoColor=FFFFFF)](https://github.com/sam-astro/Z-Sharp)
 [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=grey&logo=fishshell&logoColor=FFFFFF)](http://www.kornshell.com/fun/)
